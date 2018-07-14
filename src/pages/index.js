@@ -192,7 +192,7 @@ class IndexPage extends React.Component {
                   <div className="price">
                     <span className="sub">USD</span>
                     <span className="detail">45</span>
-                    <span className="sub">/pay</span>
+                    <span className="sub">/day</span>
                   </div>
                 </div>
               </div>
