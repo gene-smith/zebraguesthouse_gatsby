@@ -58,7 +58,7 @@ const TemplateWrapper = ({ children }) => (
           <div className="row">
             <div className="col-md-12 centered">
               <p>&nbsp;</p>
-              <p>© Copyright 2009-2018 by Zebra Guest House. All Rights Reserved.</p>
+              <p>© Copyright 2009-2019 by Zebra Guest House. All Rights Reserved.</p>
             </div>
           </div>
         </div>
