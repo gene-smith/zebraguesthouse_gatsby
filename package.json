@@ -10,6 +10,7 @@
     "gatsby-plugin-react-helmet": "^2.0.10",
     "gatsby-remark-responsive-iframe": "^1.4.20",
     "gatsby-transformer-remark": "^1.7.44",
+    "handlebars": "^4.1.2",
     "node-sass": "^4.9.0",
     "nuka-carousel": "^4.3.1",
     "react-helmet": "^5.2.0",
